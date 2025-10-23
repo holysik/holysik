@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Stay%20positive.%20Good%20days%20are%20on%20their%20way.%20%20%20%20%20%20%20%20%20%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&fontSize=30&section=header&text=Stay%20positive.%0AGood%20days%20are%20on%20their%20way.)
+
 
 
 
