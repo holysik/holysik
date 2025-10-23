@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Stay positive. Good days are on their way.)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Stay%20positive.%20Good%20days%20are%20on%20their%20way.)
+
 <!--
 **holysik/holysik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
