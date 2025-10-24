@@ -1,7 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&fontSize=40&section=header&text=Stay%20positive.%0AGood%20days%20are%20on%20their%20way.)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=holysik%20GitHub&fontSize=100&animation=fadeIn&fontAlignY=40" alt="holysik GitHub" />
+</p>
 
 
 
+
+
+---
 
 ### ✨ Tech Stack ✨  
 
@@ -23,26 +28,39 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
+---
 
 ### 📚 Studying 📚  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
+---
 
+### 📊 GitHub Stats  
 
+![holysik's GitHub stats](https://github-readme-stats.vercel.app/api?username=holysik&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holysik&layout=compact&theme=tokyonight)
 
+---
 
-<!--
-**holysik/holysik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Achievements  
 
-Here are some ideas to get you started:
+![trophy](https://github-profile-trophy.vercel.app/?username=holysik&theme=gruvbox&no-frame=true&row=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🐍 Contributions  
+
+![snake gif](https://github.com/holysik/holysik/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contact  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:your_email@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=fff)](https://velog.io/@holysik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourprofile)
+
+---
+
+> 🌈 *“Stay positive. Good days are on their way.”*
