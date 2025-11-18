@@ -8,9 +8,9 @@
 
 ## 👋 Welcome to holysik's GitHub!
 
-🌱 Java·Spring 기반으로 백엔드 역량을 넓혀가는 중입니다.
-🛠️ 개발 구조와 데이터 흐름을 함께 이해하기 위해 Python 기반 데이터 분석도 병행하고 있습니다.
-📚 백엔드와 데이터 분석 두 분야를 함께 공부하며 더 넓은 문제 해결 능력을 목표로 성장하고 있습니다.
+🌱 Java·Spring 기반으로 백엔드 역량을 넓혀가는 중입니다. <br>
+🛠️ 개발 구조와 데이터 흐름을 함께 이해하기 위해 Python 기반 데이터 분석도 병행하고 있습니다. <br>
+📚 백엔드와 데이터 분석 두 분야를 함께 공부하며 더 넓은 문제 해결 능력을 목표로 성장하고 있습니다. <br>
 
 </div>
 
@@ -54,6 +54,22 @@
 
 ---
 
+## 🔧 Projects
+
+### 📌 FullStack (Java / Spring)
+- **[다시마켓](https://github.com/Team-Nuguri/dashimarket?tab=readme-ov-file)** — 중고거래 웹 서비스
+
+
+
+---
+
+### 📊 Data Analysis (Python)
+- **[생활습관 / 신체요인에 따른 질병 위험도 분석](https://github.com/Team-3man/disease_analysis)** — 건강 데이터 기반 위험 요인 탐색  
+ 
+
+---
+
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -81,12 +97,17 @@
 
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=holysik&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## 📫 Contact  
 
 <p align="center">
-  <a href="mailto:kyusik0207@gmai.com">
+  <a href="mailto:holysik.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://velog.io/@holysik">
