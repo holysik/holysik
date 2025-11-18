@@ -120,7 +120,12 @@
 </p>
 
 ---
+<br><br><br>
 
-<p align="center">
-  🌈 <em>“Stay positive. Good days are on their way.”</em>
-</p>
+<div align="center">
+  
+<h2><i>🌈 𝒮𝓉𝒶𝓎 𝓅𝑜𝓈𝒾𝓉𝒾𝓋𝑒. 𝒢𝑜𝑜𝒹 𝒹𝒶𝓎𝓈 𝒶𝓇𝑒 𝑜𝓃 𝓉𝒽𝑒𝒾𝓇 𝓌𝒶𝓎.</i></h2>
+
+</div>
+
+<br><br><br>
