@@ -57,7 +57,7 @@
 
 ## 🔧 Projects
 
-### 📌 FullStack (Java / Spring)
+### 📌 FullStack (Java / Spring Boot)
 - **[다시마켓](https://github.com/Team-Nuguri/dashimarket?tab=readme-ov-file)** — 중고거래 웹 서비스
 
 
