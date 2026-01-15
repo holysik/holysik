@@ -98,7 +98,7 @@
 ## 🏆 Achievements  
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=holysik&theme=gruvbox&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=holysik&theme=gruvbox&no-frame=true&row=1" />
 
 </div>
 
@@ -107,7 +107,7 @@
 ## 🐍 Contributions  
 <div align="center">
   
-<img src="https://github.com/holysik/holysik/blob/output/github-contribution-grid-snake.svg" />
+
 
 </div>
 
@@ -121,6 +121,8 @@
 ## 📫 Contact  
 
 <p align="center">
+  📧 <b>holysik.dev@gmail.com</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+
   <a href="mailto:holysik.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
