@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 👋 Welcome to holysik's GitHub!
+## 👋  더 나은 시스템을 향해 도전하며, 끊임없이 성장을 추구하는 개발자 이규식입니다.
 
 🌱 Java·Spring 기반으로 백엔드 역량을 넓혀가는 중입니다. <br>
 🛠️ 개발 구조와 데이터 흐름을 함께 이해하기 위해 Python 기반 데이터 분석도 병행하고 있습니다. <br>
@@ -18,42 +18,55 @@
 
 ## 🚀 Tech Stack
 
-### 🧩 Backend  
+### 🧑‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-### 🎨 Frontend  
+### 🧩 Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square"/>
+</p>
+
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-### 🗄️ Database  
+### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
-### 🧰 Tools  
+### 📊 Data & Analysis
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+
+### 🧰 Tools
+<p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
 
-## 📚 Currently Studying  
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+## 🧾 Certifications
+- 정보처리기사 (2025)
+- SQLD (2025)
+- ADsP (2025)
+- 네트워크관리사 2급 (2025)
 
 ---
-
 
 ## 🔧 Projects
 
