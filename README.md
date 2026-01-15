@@ -88,9 +88,7 @@
 
 <div align="center">
   
-<img height="180em" src="https://stats.dooboo.io/api?username=holysik" />
-<img height="180em" src="https://stats.dooboo.io/api/top-langs/?username=holysik&layout=compact" />
-
+![holysik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=holysik&theme=merko&show_icons=true)
 
 </div>
 
