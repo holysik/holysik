@@ -73,7 +73,7 @@
 ### 📌 FullStack (Java / Spring Boot)
 - **[다시마켓](https://github.com/Team-Nuguri/dashimarket?tab=readme-ov-file)** — 중고거래 웹 서비스
 
-- ""[Devlog] - 개발자 블로그 커뮤니티
+- ""[Devlog](https://github.com/Team-ZeroBoost/Devlog) - 개발자 블로그 커뮤니티
 
 ---
 
@@ -88,8 +88,9 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=holysik&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holysik&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://stats.dooboo.io/api?username=holysik" />
+<img height="180em" src="https://stats.dooboo.io/api/top-langs/?username=holysik&layout=compact" />
+
 
 </div>
 
@@ -120,18 +121,10 @@
 
 ## 📫 Contact  
 
-<p align="center">
-  📧 <b>holysik.dev@gmail.com</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+<p>
+  📧 <b>holysik.dev@gmail.com</b> 
 
-  <a href="mailto:holysik.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://velog.io/@holysik">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+
 </p>
 
 ---
