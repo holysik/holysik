@@ -89,7 +89,7 @@
 <div align="center">
   
 ![holysik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=holysik&theme=merko&show_icons=true)
-
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=holysik)
 </div>
 
 ---
