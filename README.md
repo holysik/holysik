@@ -73,7 +73,7 @@
 ### 📌 FullStack (Java / Spring Boot)
 - **[다시마켓](https://github.com/Team-Nuguri/dashimarket?tab=readme-ov-file)** — 중고거래 웹 서비스
 
-- ""[Devlog](https://github.com/Team-ZeroBoost/Devlog) - 개발자 블로그 커뮤니티
+- **[Devlog](https://github.com/Team-ZeroBoost/Devlog)** - 개발자 블로그 커뮤니티
 
 ---
 
@@ -89,33 +89,11 @@
 <div align="center">
   
 ![holysik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=holysik&theme=merko&show_icons=true)
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=holysik)
-</div>
-
----
-
-## 🏆 Achievements  
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=holysik&theme=gruvbox&no-frame=true&row=1" />
 
 </div>
 
 ---
 
-## 🐍 Contributions  
-<div align="center">
-  
-
-
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=holysik&theme=tokyonight" />
-</p>
-
-
----
 
 ## 📫 Contact  
 
