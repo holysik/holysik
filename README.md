@@ -86,7 +86,7 @@ Java · Spring 기반의 백엔드 개발을 중심으로
 - 부적절한 콘텐츠 및 사용자 신고 접수 기능 개발
 - 구현 기능을 실제 실행 환경(AWS)에 배포하고 정상 동작 여부 검증
 
-🔗 https://github.com/Team-ZeroBoost/Devlog
+🔗 https://github.com/holysik/LKS_Devlog.git
 
 
 ### 📌 다시마켓 — 중고 거래 & 굿즈 마켓플레이스
@@ -98,7 +98,7 @@ Java · Spring 기반의 백엔드 개발을 중심으로
 - PortOne API를 활용한 결제 기능 구현 및 주문·결제 내역 관리
 - 카카오 소셜 로그인 연동
 
-🔗 https://github.com/Team-Nuguri/dashimarket
+🔗 https://github.com/holysik/LKS_Dashimarket.git
 
 
 ### 📊 Data Analysis (Python)
