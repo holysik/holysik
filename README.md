@@ -85,7 +85,7 @@ Java · Spring 기반 개발을 중심으로
 - 스케줄러 기반 정기 작업 처리 및 이메일 자동 발송 기능 연동
 - 부적절한 콘텐츠 및 사용자 신고 접수 기능 개발
 
-🔗 https://github.com/holysik/LKS_Devlog.git
+🔗 [Devlog](https://github.com/holysik/Devlog.git)
 
 
 ### 📌 다시마켓 — 중고 거래 & 굿즈 마켓플레이스
@@ -97,7 +97,7 @@ Java · Spring 기반 개발을 중심으로
 - PortOne API를 활용한 결제 기능 구현 및 주문·결제 내역 관리
 - 카카오 소셜 로그인 연동
 
-🔗 https://github.com/holysik/LKS_Dashimarket.git
+🔗 [다시마켓](https://github.com/holysik/dashimarket.git)
 
 
 ### 📊 Data Analysis (Python)
